@@ -1,1 +1,14 @@
-
+Processing
+  Get one slice of bread
+  Scoop out peanut butter with a knife
+  While there is still peanut butter on the knife
+    Spread peanut butter on the bread
+  Get one slice bread
+  Scoop out jelly with a knife
+  While there is still jelly on the knife
+    Spread jelly on the bread
+  Place two slice of bread together with the toppings in the middle
+  
+Output
+  Peanut Butter and Jelly sandwhich
+     
